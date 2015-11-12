@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <string name="about">About</string>
+    <string name="ac_disconnected">AC is disconnected, please connect and try again</string>
+    <string name="launch_loper">Launch long operation</string>
+    <string name="OK">OK</string>
+    <string name="ac_connected">AC is connected, you may use my button now</string>
+    <string name="please_wait">Please wait, this will take a while</string>
+    <string name="battery_charging">Battery is charging</string>
+    <string name="notif_subtitle">You may use app now</string>
+</resources>
