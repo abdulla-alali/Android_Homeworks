@@ -19,7 +19,7 @@ public class Utils {
 
     //pass me an intent, and I'll tell you whether we're charging or not
     public static boolean isBatteryCharging(Intent intent) {
-        int status = intent.getIntExtra(BatteryManager.EXTRA_STATUS, -1);
-        return (status == BatteryManager.BATTERY_STATUS_CHARGING);
+        int status = intent.getIntExtra(BatteryManager.EXTRA_PLUGGED, -1);
+        return (status == BatteryManager.BATTERY_PLUGGED_AC);
     }
 }
