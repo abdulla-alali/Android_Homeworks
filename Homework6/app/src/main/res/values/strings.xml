@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework 6</string>
+    <string name="please_wait">Please wait ...</string>
+    <string name="loading_image">Loading image ...</string>
+    <string name="title">Title</string>
+    <string name="summary">Summary</string>
+    <string name="purpose">Purpose</string>
+    <string name="due_date">Due date</string>
+    <string name="total_points">Total Points</string>
+    <string name="no_image">This homework has no screenshot</string>
+</resources>
